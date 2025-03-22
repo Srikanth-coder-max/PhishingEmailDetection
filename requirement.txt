@@ -1,0 +1,30 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+tensorflow
+torch
+transformers
+keras
+jupyter
+notebook
+wordcloud
+beautifulsoup4
+
+
+
+            Purpose of the libraries
+
+numpy                   	Numerical operations
+pandas                  	Data manipulation
+scikit-learn            	Machine learning models & preprocessing
+matplotlib              	Visualization
+seaborn	                  Advanced visualizations
+nltk	                    Natural Language Processing (NLP)
+tensorflow	              Deep Learning models (if using TensorFlow)
+torch	                    Deep Learning models (if using PyTorch)
+keras	                    High-level DL API
+jupyter                 	Running notebooks
+notebook	                Required for Jupyter notebooks
